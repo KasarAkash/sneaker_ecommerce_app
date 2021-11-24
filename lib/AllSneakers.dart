@@ -7,7 +7,7 @@ import 'package:sneakers_ecommerce_app/Widget/SneakerCard.dart';
 import 'model/Sneaker.dart';
 
 class AllProducts extends StatelessWidget {
-  AllProducts({Key? key}) : super(key: key);
+  const AllProducts({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
